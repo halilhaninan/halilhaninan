@@ -1,4 +1,4 @@
-# 💫About Me : Hey, I'm Halilhan İnan
+# 💫About Me : Hey,  I'm Halilhan İnan
 🔭 I’m currently working on React
 
 📫 How to reach me halilhaninan@gmail.com
