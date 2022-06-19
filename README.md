@@ -1,5 +1,5 @@
 # 💫About Me : Hi!  I'm Halilhan İnan
-🔭 I’m currently working on React, Solidity , Firebase, NodeJs, Express
+🔭 I’m currently working on React, Solidity, Firebase, NodeJs, Express
 
 📫 How to reach me halilhaninan@gmail.com
 
